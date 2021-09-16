@@ -10,3 +10,5 @@ MAE: 2.0979027331241356,
 MSE: 7.815835254888555,
 RMSE: 2.79568153674351,
 R_square score:  0.9666645259110784
+
+for developing the front end we also made the pickle file which will be used later in our project.
